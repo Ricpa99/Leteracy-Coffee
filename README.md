@@ -93,3 +93,4 @@ Jika ingin berkontribusi pada proyek ini:
 5. Buat Pull Request.
 
 ## 📸 Screenshot
+![image alt](https://github.com/Ricpa99/Leteracy-Coffee/blob/317f0fb23a4308e3b82d602630230ad433faa6d6/image/img-1.png)
