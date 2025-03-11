@@ -92,10 +92,4 @@ Jika ingin berkontribusi pada proyek ini:
 4. Push ke branch: `git push origin feature-branch`.
 5. Buat Pull Request.
 
-## 📃 Lisensi
-
-Proyek ini menggunakan lisensi **MIT**. Silakan gunakan dan modifikasi sesuai kebutuhan. 🚀
-
----
-
-Jika ada pertanyaan atau saran, silakan buka **Issue** di repository ini! 😊
+## 📸 Screenshot
